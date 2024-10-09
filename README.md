@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CodeSmasherLight, a Frontend Developer with basic knowledge of Backend
-- 👀 I’m interested in Competitive Programming 
-- 🌱 I’m currently learning Data Structures and Algorithms 
+- 👋 Hi, I’m @CodeSmasherLight, a Full-stack developer (more of a backend one)
+- 👀 I’m interested in Competitive Programming (tried earlier, will try again) 
 - 💞️ I’m looking to contribute in open source and improve my problem solving skill
   
 <!---
