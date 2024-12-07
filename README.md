@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @CodeSmasherLight, a Full-stack developer (more of a backend one)
-- 👀 I’m interested in Competitive Programming (tried earlier, will try again) 
-- 💞️ I’m looking to contribute in open source and improve my problem solving skill
+- Hi, I’m Satyam, a Full-stack developer (more of a backend one)
   
 <!---
 CodeSmasherLight/CodeSmasherLight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
